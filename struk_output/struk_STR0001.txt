@@ -1,0 +1,19 @@
+========================================
+            TOKO SEPATU PRAETORIAN       
+========================================
+No. Struk   : STR0001
+Tanggal     : 25-08-2026 22:46:37
+----------------------------------------
+Kode Sepatu : A001
+Model       : Ultraboost
+Merk        : Adidas
+Warna       : Hitam
+Harga Satuan: Rp 2.200.000
+Kuantitas   : 1
+----------------------------------------
+Total Harga : Rp 2.200.000
+Dibayar     : Rp 2.300.000
+Kembalian   : Rp 100.000
+========================================
+        Terima kasih telah berbelanja!   
+========================================
